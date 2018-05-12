@@ -1,0 +1,136 @@
+.logo{
+padding-top: 10%;
+padding-left: 5%;
+}
+
+
+
+
+
+.padding{
+	padding: 10%;
+
+}
+
+.padding2{
+	padding-bottom: 10%;
+	padding-right: 5%;
+	padding-left: 5%;
+
+}
+
+.header{
+	height: 300px;
+	
+}
+
+.letras2{
+		font-size: 200%;
+		padding-top: 50%;
+		padding-left: 10%;
+}
+
+.letras{
+		font-size: 100%;
+		padding-left: 10%;
+}
+
+
+.contenedor-foto{
+	background: url(../imagenes/20-lugares-turisticos-alrededor-del-mundo.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+
+
+ .menu-boton a {
+ 	font-weight: bolder;
+    border:2px solid #3F51B5;
+
+ }
+
+
+ .linea{
+ 	height: 100px;
+ }
+
+
+ textarea{
+ 	  border:2px solid #3F51B5;
+ }
+
+
+.botones img{
+	
+	padding-top: 120%;
+	padding-bottom: 120%;
+}
+
+
+ .chip{
+ 	background: #3F51B5;
+ }
+
+
+
+ .perfil{
+ 	border:2px solid #3F51B5;
+ }
+
+
+.parrafo{
+	padding-bottom: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+}
+ 
+
+
+ .margen{
+     margin-left: 30%;
+ }
+
+.perfilfoto{
+	height: 400px;
+
+}
+.top{
+	padding-top: 20%;
+}
+ .espacio-todo{
+ 	
+ 	padding-left: 20%;
+ }
+
+
+
+
+
+@media(max-width: 650px){
+
+.logo{
+padding-top: 5%;
+padding-left: 5%;
+}
+
+.logoimagen{
+padding-top: 5%;
+
+}
+
+.slogan{
+
+padding-top: 10%;
+padding-left: 5%;
+}
+
+.espacio-todo{
+ 	
+ 	padding-left: 0%;
+ }
+
+
+}
+
